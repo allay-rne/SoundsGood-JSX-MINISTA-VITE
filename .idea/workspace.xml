@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed9fc3ee-3bae-4570-810f-1df8182a5499" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX Component Folder with styles.jsx.child.0" />
+        <option value="JSX Component Folder with styles.jsx.child.1" />
+        <option value="JSX Component Folder with styles" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/public/favicon.svg" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38vJelIFytXfeaK68x9IA1XeZP3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2025.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProd\sounds-good\src\assets\icons" />
+      <recent name="D:\MyProd\sounds-good\public" />
+      <recent name="D:\MyProd\sounds-good\src\sections" />
+      <recent name="D:\MyProd\sounds-good\public\platforms" />
+      <recent name="D:\MyProd\sounds-good\src\assets\fonts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.143" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed9fc3ee-3bae-4570-810f-1df8182a5499" name="Changes" comment="" />
+      <created>1769674209611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769674209611</updated>
+      <workItem from="1769674211943" duration="17597000" />
+      <workItem from="1769738177941" duration="32474000" />
+      <workItem from="1769779920520" duration="37000" />
+      <workItem from="1769825540703" duration="13539000" />
+      <workItem from="1769911918168" duration="10387000" />
+      <workItem from="1769997744692" duration="32295000" />
+      <workItem from="1770083670443" duration="32266000" />
+      <workItem from="1770172206975" duration="8620000" />
+      <workItem from="1770257857455" duration="5652000" />
+      <workItem from="1770342950000" duration="26398000" />
+      <workItem from="1770429570506" duration="2073000" />
+      <workItem from="1770603015725" duration="6668000" />
+      <workItem from="1770640852759" duration="803000" />
+      <workItem from="1770641801129" duration="2637000" />
+      <workItem from="1770774713483" duration="30131000" />
+      <workItem from="1770947822451" duration="9161000" />
+      <workItem from="1770978262778" duration="368000" />
+      <workItem from="1771032977754" duration="20923000" />
+      <workItem from="1771689702932" duration="223000" />
+      <workItem from="1773367189508" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
